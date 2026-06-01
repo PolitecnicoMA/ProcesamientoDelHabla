@@ -1,0 +1,76 @@
+{
+  "intents": [
+    {
+      "tag": "estacionamiento_medido",
+      "patterns": [
+        "como funciona el estacionamiento medido",
+        "donde pago estacionamiento",
+        "app estacionamiento rio grande",
+        "cuanto cuesta estacionar",
+        "hay estacionamiento medido",
+        "como pago el estacionamiento",
+        "zona estacionamiento medido",
+        "horario estacionamiento medido",
+        "multa estacionamiento",
+        "no pague estacionamiento que pasa"
+      ],
+      "responses": [
+        "El estacionamiento medido funciona por zonas y horarios. Podés pagar desde la app o puntos habilitados"
+      ]
+    },
+    {
+      "tag": "licencia_conducir",
+      "patterns": [
+        "quiero sacar licencia",
+        "turno licencia conducir",
+        "como renovar carnet",
+        "se me vencio la licencia",
+        "donde hago licencia",
+        "tramite carnet conducir",
+        "requisitos licencia",
+        "cuanto cuesta licencia",
+        "renovar registro",
+        "turno para carnet"
+      ],
+      "responses": [
+        "Podés iniciar el trámite de licencia solicitando turno y cumpliendo los requisitos correspondientes"
+      ]
+    },
+    {
+      "tag": "impuestos",
+      "patterns": [
+        "quiero pagar impuestos",
+        "consultar deuda municipal",
+        "impuesto automotor",
+        "cuanto debo",
+        "ver deuda",
+        "pago de tasas",
+        "donde pago impuestos",
+        "impuestos municipales",
+        "deuda de patente",
+        "como pagar impuestos"
+      ],
+      "responses": [
+        "Podés consultar y pagar tus impuestos desde el portal municipal o en puntos habilitados"
+      ]
+    },
+    {
+      "tag": "carnet_alimentos",
+      "patterns": [
+        "carnet manipulacion alimentos",
+        "curso manipulacion alimentos",
+        "como sacar carnet sanitario",
+        "requisitos carnet alimentos",
+        "turno manipulacion alimentos",
+        "curso alimentos rio grande",
+        "donde hago carnet alimentos",
+        "tramite sanitario alimentos",
+        "certificado manipulacion",
+        "curso obligatorio alimentos"
+      ],
+      "responses": [
+        "El carnet de manipulación de alimentos requiere realizar un curso y evaluación correspondiente"
+      ]
+    }
+  ]
+}
