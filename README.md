@@ -46,8 +46,6 @@ Los desarrollos incluidos en este repositorio se organizan en las siguientes dim
 
 ## Tecnologías y Herramientas
 
-## Tecnologías y Herramientas
-
 - Lenguaje: Python  
 - Librerías de NLP: NLTK, spaCy, scikit-learn, Hugging Face Transformers  
 - Frameworks de Deep Learning: PyTorch  
