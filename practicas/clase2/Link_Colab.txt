@@ -1,0 +1,1 @@
+https://colab.research.google.com/github/PolitecnicoMA/ProcesamientoDelHabla/blob/main/practicas/clase2/PDH_Clase2.ipynb
