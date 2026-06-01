@@ -10,8 +10,6 @@ Si bien la asignatura se presenta bajo este nombre, el desarrollo efectivo de la
 
 El objetivo es que los estudiantes adquieran herramientas para trabajar con datos no estructurados, particularmente texto, e integrar estos conocimientos en sistemas inteligentes.
 
----
-
 ## Enfoque de la Materia
 
 La materia adopta un enfoque centrado en NLP, incorporando de manera introductoria algunos conceptos de procesamiento de voz.
@@ -25,8 +23,6 @@ Se trabaja principalmente sobre:
 Complementariamente, se introduce:
 
 - Reconocimiento automático del habla (ASR) como puente entre la señal de audio y su representación textual  
-
----
 
 ## Descripción del Contenido
 
@@ -48,16 +44,16 @@ Los desarrollos incluidos en este repositorio se organizan en las siguientes dim
 - Representación básica de señales  
 - Conceptos introductorios de espectrogramas  
 
----
+## Tecnologías y Herramientas
 
 ## Tecnologías y Herramientas
 
 - Lenguaje: Python  
-- Librerías de NLP: NLTK, spaCy, scikit-learn  
-- Modelos: redes neuronales y modelos preentrenados  
-- Audio (introductorio): Librosa, APIs de reconocimiento  
-
----
+- Librerías de NLP: NLTK, spaCy, scikit-learn, Hugging Face Transformers  
+- Frameworks de Deep Learning: PyTorch  
+- Procesamiento de Datos: pandas, NumPy  
+- Modelos:Redes neuronales (RNN, LSTM, GRU) y modelos preentrenados (embeddings y transformers)  
+- Audio (introductorio): Librosa, APIs de reconocimiento de voz  
 
 ## Perfil Técnico Desarrollado
 
@@ -68,8 +64,6 @@ Este repositorio evidencia el desarrollo de competencias para:
 - Implementar modelos de aprendizaje automático para lenguaje  
 - Integrar componentes de voz en sistemas basados en NLP  
 - Desarrollar aplicaciones como chatbots y clasificadores de texto  
-
----
 
 ## Contexto Académico
 
